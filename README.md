@@ -1,0 +1,4 @@
+basedjango
+==========
+
+Base Django Template
